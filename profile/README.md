@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SmartSiren%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=2024%20공개%20SW%20개발자%20대회&descAlignY=51&descAlign=62"/>
 </p>
 ## 제목
 신뢰도 기반 안전예보 시스템
