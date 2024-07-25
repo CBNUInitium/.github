@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
 
 ## 제목
 신뢰도 기반 안전예보 시스템
@@ -12,6 +12,13 @@
 ## 시스템 아키텍처
 
 ## 멤버
+| BE | BE | FE | FE |
+| :---: | :---: | :---: | :---: |
+| <img width="130px" src="https://avatars.githubusercontent.com/u/72596552?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/72596552?v=4"/> |  <img  width="130px" src="https://avatars.githubusercontent.com/u/118978246?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/57826563?v=4" /> |
+| 김민석 | 배용호 | 김예진 | 황재찬 |
+|  [@vaturn](https://github.com/vaturn)  | [@YonghoBae](https://github.com/YonghoBae) |  [@jennienn](https://github.com/jennienn)   |     [@EmpChan](https://github.com/EmpChan) |
+
+
 <table>
   <tr>
     <td align='center' style="font-size:24px;"><strong>김예진</strong></td>
