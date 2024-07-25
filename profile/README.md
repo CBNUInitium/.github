@@ -1,5 +1,5 @@
 # SmartSiren 2024 공개 SW 개발자 대회
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=SmartSiren-nl-2024%20공개%20SW%20개발자%20대회&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=SmartSiren&fontSize=90-nl-2024%20공개%20SW%20개발자%20대회&fontSize=40)
 
 ## 제목
 
