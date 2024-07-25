@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SmartSiren&fontSize=70&animation=fadeIn&fontAlignY=38&desc=2024%20공개%20SW%20개발자%20대회&descAlignY=51&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SmartSiren&fontSize=80&animation=fadeIn&fontAlignY=38&desc=2024%20공개%20SW%20개발자%20대회&descAlignY=51&descAlign=50"/>
 </p>
 
 # Title
