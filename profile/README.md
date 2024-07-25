@@ -1,16 +1,14 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SmartSiren%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=2024%20공개%20SW%20개발자%20대회&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SmartSiren%20render&fontSize=60&animation=fadeIn&fontAlignY=38&desc=2024%20공개%20SW%20개발자%20대회&descAlignY=51&descAlign=62"/>
 </p>
-## 제목
+
+## Title
 신뢰도 기반 안전예보 시스템
 
-## 소개
+## Introduction
 
-## 기대 효과
 
-## 주요 기능
-
-## 시스템 아키텍처
+## System Architecture
 
 ## Team
 | BE | BE | FE | FE |
