@@ -28,10 +28,10 @@
 
 <table>
   <tr> 
-    <td><a href="https://github.com/jennienn"><img src="" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/vaturn"><img src="https://avatars.githubusercontent.com/u/72596552?v=4"></a></td>
-    <td><a href="https://github.com/YonghoBae"><img src="https://avatars.githubusercontent.com/u/127498076?v=4"></a></td>
-    <td><a href="https://github.com/EmpChan"><img src="https://avatars.githubusercontent.com/u/57826563?v=4"></a></td>
+    <td><a href="https://github.com/jennienn"><img src="https://avatars.githubusercontent.com/u/118978246?v=4" style="width:100px; height:100px;"></a></td>
+    <td><a href="https://github.com/vaturn"><img src="https://avatars.githubusercontent.com/u/72596552?v=4" style="width:100px; height:100px;"></a></td>
+    <td><a href="https://github.com/YonghoBae"><img src="https://avatars.githubusercontent.com/u/127498076?v=4" style="width:100px; height:100px;"></a></td>
+    <td><a href="https://github.com/EmpChan"><img src="https://avatars.githubusercontent.com/u/57826563?v=4" style="width:100px; height:100px;"></a></td>
   </tr>
   <tr> 
     <td align='center'><strong>김예진</strong></td> 
