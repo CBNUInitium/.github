@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
 ## 제목
 신뢰도 기반 안전예보 시스템
 
@@ -11,31 +13,9 @@
 
 ## 시스템 아키텍처
 
-## 멤버
+## Team
 | BE | BE | FE | FE |
 | :---: | :---: | :---: | :---: |
 | <img width="250px" src="https://avatars.githubusercontent.com/u/72596552?v=4" /> | <img width="250px" src="https://avatars.githubusercontent.com/u/127498076?v=4"/> |  <img  width="250px" src="https://avatars.githubusercontent.com/u/118978246?v=4" /> |  <img width="250px" src="https://avatars.githubusercontent.com/u/57826563?v=4" /> |
 | 김민석 | 배용호 | 김예진 | 황재찬 |
 |  [@vaturn](https://github.com/vaturn)  | [@YonghoBae](https://github.com/YonghoBae) |  [@jennienn](https://github.com/jennienn)   |     [@EmpChan](https://github.com/EmpChan) |
-
-
-<table>
-  <tr>
-    <td align='center' style="font-size:24px;"><strong>김예진</strong></td>
-    <td align='center' style="font-size:24px;"><strong>김민석</strong></td>
-    <td align='center' style="font-size:24px;"><strong>배용호</strong></td>
-    <td align='center' style="font-size:24px;"><strong>황재찬</strong></td>
-  </tr>
-  <tr> 
-    <td><img src="https://avatars.githubusercontent.com/u/118978246?v=4" style="width:200px; height:200px;"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/72596552?v=4" style="width:200px; height:200px;"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/127498076?v=4" style="width:200px; height:200px;"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/57826563?v=4" style="width:200px; height:200px;"></td>
-  </tr>
-  <tr> 
-    <td align='center' style="font-size:18px;"><a href="https://github.com/jennienn"><strong>@jennienn</strong></a></td> 
-    <td align='center' style="font-size:18px;"><a href="https://github.com/vaturn"><strong>@vaturn</strong></a></td> 
-    <td align='center' style="font-size:18px;"><a href="https://github.com/YonghoBae"><strong>@YonghoBae</strong></a></td> 
-    <td align='center' style="font-size:18px;"><a href="https://github.com/EmpChan"><strong>@EmpChan</strong></a></td> 
-  </tr>
-</table>
