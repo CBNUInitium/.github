@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=ADD8E6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random6&height=300&section=header&text=SmartSiren&fontSize=90&fontAlignY=40&desc=2024%20공개%20SW%20개발자%20대회&descAlign=70)
 
 ## 제목
 
