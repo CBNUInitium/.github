@@ -14,7 +14,7 @@
 ## 멤버
 | BE | BE | FE | FE |
 | :---: | :---: | :---: | :---: |
-| <img width="130px" src="https://avatars.githubusercontent.com/u/72596552?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/72596552?v=4"/> |  <img  width="130px" src="https://avatars.githubusercontent.com/u/118978246?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/57826563?v=4" /> |
+| <img width="250px" src="https://avatars.githubusercontent.com/u/72596552?v=4" /> | <img width="250px" src="https://avatars.githubusercontent.com/u/127498076?v=4"/> |  <img  width="250px" src="https://avatars.githubusercontent.com/u/118978246?v=4" /> |  <img width="250px" src="https://avatars.githubusercontent.com/u/57826563?v=4" /> |
 | 김민석 | 배용호 | 김예진 | 황재찬 |
 |  [@vaturn](https://github.com/vaturn)  | [@YonghoBae](https://github.com/YonghoBae) |  [@jennienn](https://github.com/jennienn)   |     [@EmpChan](https://github.com/EmpChan) |
 
