@@ -12,6 +12,12 @@
 
 ## 멤버
 <table>
+  <tr>
+    <td align='center' style="font-size:24px;"><strong>김예진</strong></td>
+    <td align='center' style="font-size:24px;"><strong>김민석</strong></td>
+    <td align='center' style="font-size:24px;"><strong>배용호</strong></td>
+    <td align='center' style="font-size:24px;"><strong>황재찬</strong></td>
+  </tr>
   <tr> 
     <td><img src="https://avatars.githubusercontent.com/u/118978246?v=4" style="width:200px; height:200px;"></td>
     <td><img src="https://avatars.githubusercontent.com/u/72596552?v=4" style="width:200px; height:200px;"></td>
@@ -19,9 +25,9 @@
     <td><img src="https://avatars.githubusercontent.com/u/57826563?v=4" style="width:200px; height:200px;"></td>
   </tr>
   <tr> 
-    <td align='center' style="font-size:24px;"><a href="https://github.com/jennienn"><strong>김예진</strong></a></td> 
-    <td align='center' style="font-size:24px;"><a href="https://github.com/vaturn"><strong>김민석</strong></a></td> 
-    <td align='center' style="font-size:24px;"><a href="https://github.com/YonghoBae"><strong>배용호</strong></a></td> 
-    <td align='center' style="font-size:24px;"><a href="https://github.com/EmpChan"><strong>황재찬</strong></a></td> 
+    <td align='center' style="font-size:18px;"><a href="https://github.com/jennienn"><strong>@jennienn</strong></a></td> 
+    <td align='center' style="font-size:18px;"><a href="https://github.com/vaturn"><strong>@vaturn</strong></a></td> 
+    <td align='center' style="font-size:18px;"><a href="https://github.com/YonghoBae"><strong>@YonghoBae</strong></a></td> 
+    <td align='center' style="font-size:18px;"><a href="https://github.com/EmpChan"><strong>@EmpChan</strong></a></td> 
   </tr>
 </table>
